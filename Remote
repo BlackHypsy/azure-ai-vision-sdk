@@ -1,0 +1,6 @@
+Convert-License
+       -KeyPackId <UInt32>
+       [-Count <UInt32>]
+       [-WhatIf]
+       [-Confirm]
+       [<CommonParameters>]
